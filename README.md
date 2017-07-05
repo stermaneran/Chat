@@ -1,2 +1,2 @@
 # Chat
-tcp Client-Server app
+Chat in java

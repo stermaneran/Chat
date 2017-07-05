@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2016-Dec-30 23:34" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="manual" version="1.9.0.v20160922-0809">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="ChatServer.Server" modelMemberId="ChatServer.Server" project="Chat v1.0" xLocation="848" yLocation="1240"/>
+        <class className="ChatClient.Client" modelMemberId="ChatClient.Client" project="Chat v1.0" xLocation="20" yLocation="55"/>
+        <class className="chatPackage.Package" modelMemberId="chatPackage.Package" project="Chat v1.0" xLocation="436" yLocation="702"/>
+        <class className="ChatClient.ClientGUI" modelMemberId="ChatClient.ClientGUI" project="Chat v1.0" xLocation="932" yLocation="30"/>
+        <class className="ChatServer.ServerGUI" modelMemberId="ChatServer.ServerGUI" project="Chat v1.0" xLocation="67" yLocation="1326"/>
+    </diagram>
+</ajsv>
